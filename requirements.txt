@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-openai
+langchain-huggingface
+langchain-community
+langchain-text-splitters
+langgraph
+faiss-cpu
+pypdf
+huggingface_hub
+torchvision
